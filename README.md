@@ -11,7 +11,6 @@
 ## Main Repo
 https://github.com/IDEA-Research/DWPose <br />
 https://github.com/Tau-J/mmpose/tree/app-rtmpose <br />
-https://github.com/open-mmlab/mmagic/blob/main/configs/controlnet_animation/README.md <br />
 
 ## Paper
 https://arxiv.org/abs/2307.15880
