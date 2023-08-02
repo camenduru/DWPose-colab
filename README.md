@@ -17,4 +17,4 @@ https://github.com/open-mmlab/mmagic/blob/main/configs/controlnet_animation/READ
 https://arxiv.org/abs/2307.15880
 
 ## Output
-
+https://github.com/camenduru/DWPose-colab/assets/54370274/6db0e856-3282-4b54-90f0-19c8d59e3745
