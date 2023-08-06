@@ -16,4 +16,7 @@ https://github.com/Tau-J/mmpose/tree/app-rtmpose <br />
 https://arxiv.org/abs/2307.15880
 
 ## Output
+Artist: https://www.tiktok.com/@karinaavx__/video/7149227592720141610 <br />
+https://www.youtube.com/@karinabalcerzak
+
 https://github.com/camenduru/DWPose-colab/assets/54370274/a4cc6b54-10f7-44d1-ad8c-490f5e5e88c2
