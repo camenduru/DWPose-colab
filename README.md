@@ -16,4 +16,4 @@ https://github.com/Tau-J/mmpose/tree/app-rtmpose <br />
 https://arxiv.org/abs/2307.15880
 
 ## Output
-https://github.com/camenduru/DWPose-colab/assets/54370274/6db0e856-3282-4b54-90f0-19c8d59e3745
+https://github.com/camenduru/DWPose-colab/assets/54370274/a4cc6b54-10f7-44d1-ad8c-490f5e5e88c2
