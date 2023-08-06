@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DWPose-colab/blob/main/DWPose_colab.ipynb) | DWPose_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly-dw-openpose.ipynb  | ControlNet-v1-1-nightly-dw-openpose
 
 ## Main Repo
 https://github.com/IDEA-Research/DWPose <br />
